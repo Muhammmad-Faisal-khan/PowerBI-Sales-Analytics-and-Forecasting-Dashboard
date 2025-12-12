@@ -57,6 +57,13 @@ DAX
 Excel / CSV Data
 Custom Themes (JSON)
 
+# 📸 Dashboard Preview
+
+
+Page 1 Overview: 
+Page 2 Advanced Insights: 
+Page 3 Insights Report: 
+
 # 🚀 How to Use This Dashboard
 Clone or download this repository.
 Open the .pbix file in Power BI Desktop.
