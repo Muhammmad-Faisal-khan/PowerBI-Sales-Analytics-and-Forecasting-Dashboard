@@ -60,9 +60,9 @@ Custom Themes (JSON)
 # 📸 Dashboard Preview
 
 
-Page 1 Overview: 
-Page 2 Advanced Insights: 
-Page 3 Insights Report: 
+Page 1 Overview: https://github.com/Muhammmad-Faisal-khan/PowerBI-Sales-Analytics-and-Forecasting-Dashboard/blob/main/Dashboard-Screenshots/page1_overview.png
+Page 2 Advanced Insights: https://github.com/Muhammmad-Faisal-khan/PowerBI-Sales-Analytics-and-Forecasting-Dashboard/blob/main/Dashboard-Screenshots/page2_advanced_insights.png
+Page 3 Insights Report: https://github.com/Muhammmad-Faisal-khan/PowerBI-Sales-Analytics-and-Forecasting-Dashboard/blob/main/Dashboard-Screenshots/page3_insights_report.png
 
 # 🚀 How to Use This Dashboard
 Clone or download this repository.
