@@ -39,3 +39,34 @@ Data Cleaning & Transformation (Power Query)
 KPI Development
 Slicer & Filtering Logic
 Visual Storytelling for Business Decisions
+
+# ✨ Key Insights Delivered
+
+Some insights generated from the dashboard:
+Monthly sales show a consistent upward trend with clear seasonal peaks.
+Top products contribute a large portion of total revenue, showing strong product concentration.
+Highest-performing categories drive the majority of sales.
+Regional contribution varies, with certain regions significantly outperforming others.
+The AI forecast shows an expected positive growth trend in upcoming months.
+YoY analysis highlights changes in performance and helps identify growth opportunities.
+
+# 📦 Technologies Used
+Power BI Desktop
+Power Query
+DAX
+Excel / CSV Data
+Custom Themes (JSON)
+
+# 🚀 How to Use This Dashboard
+Clone or download this repository.
+Open the .pbix file in Power BI Desktop.
+Ensure the dataset paths are correct if you refresh data.
+Interact with slicers to explore insights dynamically.
+
+# 📬 Contact
+If you would like to discuss this project or explore technical collaboration:
+
+Muhammad Faisal khan
+Power BI Developer | Data Analyst | BI Enthusiast
+LinkedIn: (https://www.linkedin.com/in/muhammad-faisal-khan-39520a194/)
+GitHub: (https://github.com/Muhammmad-Faisal-khan/)
